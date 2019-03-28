@@ -12,7 +12,7 @@ class Header extends React.Component {
     render() {
         return (
             <div className='header'>
-                <h1>Aunties Remedies</h1>
+                <h1>Aunties Natural Herbal Remedies</h1>
             </div>
         )
     }

@@ -10,7 +10,7 @@ class Listing extends React.Component {
     render() {
         return (
             <div className='listing'>
-                <p>Welcome to Aunties Remedies.</p>
+                <p>Welcome to Aunties Natural Herbal Remedies.</p>
 
                 
             </div>
